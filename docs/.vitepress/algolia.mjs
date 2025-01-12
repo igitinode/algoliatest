@@ -1,7 +1,7 @@
 export default {
   appId: 'MP05B9ZYPB',
   apiKey: '766e4371999c324fd4d7609e680bae5d',
-  indexName: 'igitinode_github_io_mp05b9zypb_pages',
+  indexName: 'algolia-test-crawler',
   locales: {
     root: {
       placeholder: '搜索文档',
