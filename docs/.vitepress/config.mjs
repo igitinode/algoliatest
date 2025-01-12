@@ -81,7 +81,7 @@ export default defineConfig({
     skipToContentLabel: '跳转到内容',
 
     search: {
-      provider: 'local',
+      provider: 'algolia',
       options: algolia,
     },
   }
