@@ -1,7 +1,7 @@
 export default {
-  // appId: 'EH1CQR29YE',
-  // apiKey: 'ca8ad0c2f9df58e28d28d8bf339203da',
-  // indexName: 'Enlighten',
+  appId: 'MP05B9ZYPB',
+  apiKey: '766e4371999c324fd4d7609e680bae5d',
+  indexName: 'igitinode_github_io_mp05b9zypb_pages',
   locales: {
     root: {
       placeholder: '搜索文档',
