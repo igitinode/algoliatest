@@ -26,6 +26,7 @@ export default defineConfig({
     ['meta', { property: 'og:site_name', content: 'VitePress' }],
     ['meta', { property: 'og:image', content: 'https://igitinode.github.io/algoliatest/vitepress-og.jpg' }],
     ['meta', { property: 'og:url', content: 'https://igitinode.github.io/algoliatest/' }],
+    ['meta', { name: 'algolia-site-verification', content: '5C2FB2448E03BBFF' }]
   ],
   themeConfig: {
     logo: { src: '/vitepress-logo-mini.svg', width: 24, height: 24 },
