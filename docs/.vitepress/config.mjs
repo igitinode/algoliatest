@@ -5,6 +5,7 @@ import algolia from './algolia.mjs'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base: '/algoliatest/',
+  lang: 'zh-CN',
   title: "algolia-test",
   description: "Vitepress + Vue + Algolia",
   lastUpdated: true,
