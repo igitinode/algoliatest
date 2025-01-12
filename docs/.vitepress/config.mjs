@@ -21,13 +21,13 @@ export default defineConfig({
   head: [
     ['link', { rel: 'icon', type: 'image/svg+xml', href: '/algoliatest/vitepress-logo-mini.svg' }],
     ['link', { rel: 'icon', type: 'image/png', href: '/algoliatest/vitepress-logo-mini.png' }],
+    ['meta', { name: 'algolia-site-verification', content: '5C2FB2448E03BBFF' }]
     ['meta', { name: 'theme-color', content: '#5f67ee' }],
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:title', content: 'Algolia Test | Vite & Vue Powered Static Site Generator' }],
     ['meta', { property: 'og:site_name', content: 'VitePress' }],
     ['meta', { property: 'og:image', content: 'https://igitinode.github.io/algoliatest/vitepress-og.jpg' }],
     ['meta', { property: 'og:url', content: 'https://igitinode.github.io/algoliatest/' }],
-    ['meta', { name: 'algolia-site-verification', content: '5C2FB2448E03BBFF' }]
   ],
   themeConfig: {
     logo: { src: '/vitepress-logo-mini.svg', width: 24, height: 24 },
